@@ -50,8 +50,8 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<a href="https://heroku.com/deploy?template=">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt=https://github.com/ridonebabat/Ajax"Deploy">
 </a>
 </p>
 </details>
