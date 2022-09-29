@@ -118,7 +118,7 @@ async def start(client, message):
         file_id=file_id,
         caption=f_caption,
         )
-reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sá´œÊ™sá´„Ê€ÉªÊ™á´‡', url='youtube.com/OpusTechz') ] ] ),
+reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('Test Button', url='youtube.com/OpusTechz') ] ] ),
                     
 
 @Client.on_message(filters.command('channel') & filters.user(ADMINS))
